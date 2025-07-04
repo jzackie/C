@@ -1,6 +1,6 @@
 ###is_valid_base
 
-This function checks if a base string is valid for use in ft_putnbr_base.
+This function checks if a base string is valid.
 
 # ---------------------------------- #
 
