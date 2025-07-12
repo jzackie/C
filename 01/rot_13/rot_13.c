@@ -17,4 +17,3 @@ int	main(int argc, char **argv)
 		while (argv[1][i])
 			ft_rot_13(argv[1][i++]);
 	write(1, "\n", 1);
-}
